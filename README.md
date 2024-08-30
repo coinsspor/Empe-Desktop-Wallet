@@ -39,7 +39,7 @@ The following Python libraries are required for this project:
 **Clone the Repository:**
 
 ```bash
-git clone https://github.com/username/Empe-wallet.git
+git clone https://github.com/username/Empe-Desktop-Wallet.git
 cd Empe-wallet
 ```
 ### Install Required Libraries:
